@@ -1,0 +1,14 @@
+h1{
+    font-size: 40px;
+    color: orange;
+    font-family: 'Franklin Gothic Medium';
+    font-weight: 700;
+    margin-left: 42px;
+    margin-top: 50px;
+}
+video{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    border-radius: 20px;
+}
